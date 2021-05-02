@@ -2,10 +2,9 @@
 <html>
 <body>
 
-<h1>Halaman HTML</h1>
 
 <?php
-echo "Halo dunia!";
+echo "182193 Muhammad Muheyder Cam";
 ?>
 
 </body>
